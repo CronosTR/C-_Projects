@@ -1,0 +1,10 @@
+c:\users\guven.bilgin\documents\visual studio 2015\Projects\CinemaSoftware\CinemaSoftware\bin\Debug\CinemaSoftware.exe.config
+c:\users\guven.bilgin\documents\visual studio 2015\Projects\CinemaSoftware\CinemaSoftware\obj\Debug\CinemaSoftware.csprojResolveAssemblyReference.cache
+c:\users\guven.bilgin\documents\visual studio 2015\Projects\CinemaSoftware\CinemaSoftware\obj\Debug\CinemaSoftware.Properties.Resources.resources
+c:\users\guven.bilgin\documents\visual studio 2015\Projects\CinemaSoftware\CinemaSoftware\obj\Debug\CinemaSoftware.csproj.GenerateResource.Cache
+c:\users\guven.bilgin\documents\visual studio 2015\Projects\CinemaSoftware\CinemaSoftware\bin\Debug\CinemaSoftware.exe
+c:\users\guven.bilgin\documents\visual studio 2015\Projects\CinemaSoftware\CinemaSoftware\bin\Debug\CinemaSoftware.pdb
+c:\users\guven.bilgin\documents\visual studio 2015\Projects\CinemaSoftware\CinemaSoftware\obj\Debug\CinemaSoftware.exe
+c:\users\guven.bilgin\documents\visual studio 2015\Projects\CinemaSoftware\CinemaSoftware\obj\Debug\CinemaSoftware.pdb
+c:\users\guven.bilgin\documents\visual studio 2015\Projects\CinemaSoftware\CinemaSoftware\obj\Debug\CinemaSoftware.Cinema.resources
+C:\Users\guven.bilgin\Documents\Visual Studio 2015\Projects\CinemaSoftware\CinemaSoftware\obj\Debug\CinemaSoftware.csproj.CoreCompileInputs.cache
